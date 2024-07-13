@@ -1,7 +1,8 @@
 # Notebook App
 
 W.I.P. 
-A digital calendar that looks like a notebook.t
+
+A digital calendar that looks like a notebook.
 
 
 ## Expanding the ESLint configuration
